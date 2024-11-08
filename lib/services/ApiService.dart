@@ -8,7 +8,7 @@ String normalizeName(String name) {
 
 class ApiService {
   static const String baseUrl = 'https://v3.football.api-sports.io';
-  static const String apiKey = '9f0ae40631337efa01b4597f3ae86203';
+  static const String apiKey = '6b973078f78482988891aa4731224ee9';
 
   Future<Map<String, dynamic>> searchPlayer({
     required String playerName,
