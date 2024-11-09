@@ -1,6 +1,6 @@
-# Football Transfer Tracker
+# Football for all
 
-A new Flutter project that tracks football player transfers.
+A new Flutter project that track details about football players and teams all over the world with different seasons.
 
 ## Getting Started
 
